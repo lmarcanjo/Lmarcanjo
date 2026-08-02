@@ -69,7 +69,7 @@ Features:
 
 Professional portfolio with projects, experience and contact information.
 
-🔗 Website
+🔗 Website: https://lmarcanjo.github.io/lua-arcanjo-portfolio/
 
 ---
 
@@ -85,8 +85,8 @@ Professional portfolio with projects, experience and contact information.
 
 ## 📫 Contact
 
-[LinkedIn]: https://www.linkedin.com/in/lua-martins-arcanjo/
+[LinkedIn] https://www.linkedin.com/in/lua-martins-arcanjo/
 
-[Portfolio]: https://lmarcanjo.github.io/lua-arcanjo-portfolio/
+[Portfolio] https://lmarcanjo.github.io/lua-arcanjo-portfolio/
 
 [Email] mailto:lmarcanjo16@gmail.com
