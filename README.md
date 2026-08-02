@@ -45,7 +45,7 @@ Complete automation framework with:
 - GitHub Actions
 - Reports
 
-🔗 Repository: https://github.com/lmarcanjo/qa-automation-suite
+🔗 Repository(https://github.com/lmarcanjo/qa-automation-suite)
 
 ---
 
@@ -61,7 +61,7 @@ Features:
 - QA Documentation
 - AI-assisted workflows
 
-🔗 Repository: https://github.com/lmarcanjo/Asta-QA
+🔗 Repository(https://github.com/lmarcanjo/Asta-QA)
 
 ---
 
@@ -69,7 +69,7 @@ Features:
 
 Professional portfolio with projects, experience and contact information.
 
-🔗 Website: https://lmarcanjo.github.io/lua-arcanjo-portfolio/
+🔗 Website(https://lmarcanjo.github.io/lua-arcanjo-portfolio/)
 
 ---
 
@@ -85,6 +85,6 @@ Professional portfolio with projects, experience and contact information.
 
 ## 📫 Contact
 
-[LinkedIn] https://www.linkedin.com/in/lua-martins-arcanjo/
+[LinkedIn](https://www.linkedin.com/in/lua-martins-arcanjo/)
 
 [Email](mailto:lmarcanjo16@gmail.com)
