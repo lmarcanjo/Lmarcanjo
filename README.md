@@ -87,4 +87,4 @@ Professional portfolio with projects, experience and contact information.
 
 [LinkedIn] https://www.linkedin.com/in/lua-martins-arcanjo/
 
-[Email] mailto:lmarcanjo16@gmail.com
+[Email] (mailto:lmarcanjo16@gmail.com)
